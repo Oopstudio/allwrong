@@ -15,6 +15,7 @@ body {
   
   .logo {
     width: 50px;
+    vertical-align: middle;
   }
   
   .menu-icon {
