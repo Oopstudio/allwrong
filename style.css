@@ -14,13 +14,14 @@ body {
   }
   
   .logo {
-    width: 50px;
+    width: 60px;
     vertical-align: middle;
   }
   
   .menu-icon {
     font-size: 30px;
     cursor: pointer;
+    
   }
   
   .character {
