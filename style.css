@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: "Noto Sans TC", sans-serif;
-    background-color: #000;
+    background-color: #000000;
     color: #fff;
     text-align: center;
   }
@@ -23,7 +23,10 @@ body {
     cursor: pointer;
     
   }
-  
+  .menu-icon img{
+    width: 50px;
+    vertical-align: middle;
+  }
   .character {
     width: 40%;
     margin: 20px 0;
